@@ -48,8 +48,8 @@ Dan jangan lupa untuk memperhatikan dan selalu mengawasi halaman-halaman berikut
   * Legenda BlankOn 7 (Pattimura)
           o Progress_Artwork_Pattimura
 
-***** Tim Kesenian *****
-**** Rilis Pattimura ****
+## Tim Kesenian
+#### Rilis Pattimura
   * Ahmad Haris (Koordinator)
   * Insan Sutejo
   * Bandi (belajar)
@@ -59,11 +59,13 @@ Dan jangan lupa untuk memperhatikan dan selalu mengawasi halaman-halaman berikut
   * Heru Setiawan (belajar)
   * Achmad Syafii
   * Kukuh Syafaat
-***** Rapat Tim Kesenian *****
+
+## Rapat Tim Kesenian
   * Di channel IRC #blankon server irc.freenode.net , biasanya diumumkan via
       milis
   * Hasil rapat ada di Halaman_Rapat
-***** Peraturan Tim Kesenian *****
+
+## Peraturan Tim Kesenian
   * Membuat akun di dev.blankonlinux.or.id dan taruh di daftar anggota baik
       di halaman ini maupun halaman tim pengembang
   * Rutin memantau wiki ini, berkoordinasi via #blankon at irc.freenode.net
@@ -78,16 +80,18 @@ Dan jangan lupa untuk memperhatikan dan selalu mengawasi halaman-halaman berikut
   * Satu anggota diculik ufo, yang lain WAJIB menggantikan, hingga last man
       standing
   * Usahakan menggunakan perangkat lunak FOSS atau anda bakalan diketawain
-***** Referensi Tim Kesenian *****
-  * ​https://wiki.ubuntu.com/Artwork
-  * ​http://live.gnome.org/GnomeArt/Tutorials/UsefulLinks
-  * ​http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines
-  * ​http://fedoraproject.org/wiki/Artwork
-  * ​Marine_Contractor
-  * ​Jetty
-  * ​Pest_Control
-  * ​Anti_Rayap
-***** Cara Kerja Tim Kesenian *****
+
+## Referensi Tim Kesenian
+  * [Wiki Ubuntu](https://wiki.ubuntu.com/Artwork)
+  * [GNOME Art tutorial](http://live.gnome.org/GnomeArt/Tutorials/UsefulLinks)
+  * [Tango]( http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)
+  * [Fedora Project Artwork](http://fedoraproject.org/wiki/Artwork)
+  * Marine_Contractor
+  * Jetty
+  * Pest_Control
+  * Anti_Rayap
+
+## Cara Kerja Tim Kesenian
 Setelah BlankOn nggak numpang di launchpad dan wiki ubuntu, maka dirasa perlu
 adanya penyesuaian cara kerja dengan menggunakan dev.
   * Setiap anggota tim kesenian yang telah memiliki akun dan diserahi tugas,
@@ -109,5 +113,5 @@ adanya penyesuaian cara kerja dengan menggunakan dev.
   * Jangan mengupload file artwork ke Artwork/"koderilisdisini". Halaman
       tersebut hanya dan harusnya berisi link saja!
 
-Last modified on 08/04/2015 11:28:00 AM
+---
 

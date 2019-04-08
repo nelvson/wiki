@@ -17,10 +17,12 @@ Secara garis besar seperti berikut:
 
 ### Tim
 #### Rilis Uluwatu
-  * M. Dzulkifli | baliextravaganza @ gmail.com (Koordinator)
-  * Sofyan Sugianto | sofyanartem @ gmail.com
-  * Andrel Karunia Sitanggang | andrel.sitanggang @ gmail.com
-  * Muhammad Soleh | matthelosh[at]gmail.com
+|Nama|Email|
+|-|-|
+|M. Dzulkifli | (baliextravaganza@gmail.com) (Koordinator)|
+|Sofyan Sugianto | (sofyanartem@gmail.com)|
+|Andrel Karunia Sitanggang | (andrel.sitanggang@gmail.com)|
+|Muhammad Soleh | (matthelosh@gmail.com)|
 
 ### Rapat Tim
   * IRC #blankon server irc.freenode.net
@@ -50,7 +52,6 @@ Secara garis besar seperti berikut:
   * Penguji paket otomatis
 
 KategoriJaminanKualitas
-Last_modified 7 weeks ago Last modified on 03/18/2017 01:50:19 PM
 
 ---
 

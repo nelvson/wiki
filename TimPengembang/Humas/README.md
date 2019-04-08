@@ -4,12 +4,12 @@ bertujuan untuk membangun citra produk dan komunikasi yang saling menguntungkan
 antara lembaga dengan masyarakat.
 
 ### Tugas
-     ​Tim_Humas_BlankOn:
-    * Menentukan strategi media, komunikasi, dokumentasi, literasi dan
+Tugas Tim Humas BlankOn:
+* Menentukan strategi media, komunikasi, dokumentasi, literasi dan
       sosialisasi BlankOn.
-    * Mendorong terbentuknya komunitas pengguna, pembelajaran dan riset BlankOn
+* Mendorong terbentuknya komunitas pengguna, pembelajaran dan riset BlankOn
       lewat ​Kelompok_Pengguna_BlankOn
-    * Melakukan langkah-langkah strategis lainnya untuk mendorong pemanfaatan
+* Melakukan langkah-langkah strategis lainnya untuk mendorong pemanfaatan
       BlankOn di masyarakat, pendidikan, pemerintahan dan swasta. Seperti
       workshop, lokakarya, bimtek, seminar dan lomba-lomba.
 
@@ -34,33 +34,28 @@ bentuk kegiatan antara lain workshop, lokakarya, bimtek, seminar dan lomba-
 lomba. Materi utama dalam Pesta Rilis adalah presentasi filosifi tema dan
 tinjauan fitur baru.
 5. Media Sosial dan komunikasi 
-    * 1 : Instagram BlankOn [@blankoninux]
-    * 2 : Facebook [https://www.facebook.com/groups/blankonlinux/?ref=br_rs]
-    * 3 : Twitter [https://twitter.com/BlankOnLinux]
-    * 4 : Telegram [https://t.me/BlankOnLinux]
+    * 1 : Instagram BlankOn [@blankonlinux](https://www.instagram.com/blankonlinux/)
+    * 2 : Grup Facebook [BlankOn](https://www.facebook.com/groups/blankonlinux/?ref=br_rs)
+    * 3 : Twitter [BlankOnLinux](https://twitter.com/BlankOnLinux)
+    * 4 : Telegram [BlankOnLinux](https://t.me/BlankOnLinux)
 
-### Tim Humas 2016
-    * Aris E. Priyanto
-    * Estu Fardani
-    * Pahlevy
-    * Saputro Aryulianto
-    * Virgo Tri Septo Anggoro
-    * Sabar Suwarsono
-### Tim Humas 2017
-    * Slamet Santoso 
-    * Muhammad Rafi 
-    * Aris Eko Priyanto
-    * Sabar Suwarsono
-    * Pantana
-    * Pahlevy Tawainella
 ### Tim Humas 2018
-    * Slamet Santoso
-    * Imanuel Ronaldo
-    * M Rifki Affandi 
-    * Pahlevy Tawainella
-    * Muhammad Alwi Mahfud
-Last_modified 1 months ago Last modified on 06/02/2019 10:40:13 PM
- 
----
- 
-
+* Slamet Santoso
+* Imanuel Ronaldo
+* M Rifki Affandi 
+* Pahlevy Tawainella
+* Muhammad Alwi Mahfud
+### Tim Humas 2017
+* Slamet Santoso 
+* Muhammad Rafi 
+* Aris Eko Priyanto
+* Sabar Suwarsono
+* Pantana
+* Pahlevy Tawainella
+### Tim Humas 2016
+* Aris E. Priyanto
+* Estu Fardani
+* Pahlevy
+* Saputro Aryulianto
+* Virgo Tri Septo Anggoro
+* Sabar Suwarsono
